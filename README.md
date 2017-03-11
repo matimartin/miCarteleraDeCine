@@ -5,6 +5,7 @@ Los temas desarrollados en el curso abarcarán:
   - CSS3
   - Javascript y Bootstrap
   - Responsive Design
+  - jquery
   - Frameworks
   - Precompiladores
   - SIncronización de Datos
